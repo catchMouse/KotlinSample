@@ -1,7 +1,7 @@
 # KotlinSample
 kotlin, android, gradle, plugin, java
 
-##kotlin知识点罗列
+##kotlin知识点罗列  
 1.变量（var/val）；数据类型（Nothing,Any）；运算符；范围运算符；字符串；数组；  
 2.三元表达式；when语句；while；do/while；；跳转语句（continue,break）  
 3.foreach；区间；类型转换；空值处理  
