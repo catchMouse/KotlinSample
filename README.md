@@ -32,26 +32,26 @@ kotlin, android, gradle, plugin, java
   --非局部返回  
   --函数类型，函数类型实例化，函数类型实例调用  
 7.集合
-  --集合框架：Collection、List、Map、MutableCollection、Map、空集合
-  --集合初始化方式、集合复制
-  --集合过滤filter、映射map、关联associate
-  --迭代器：List迭代器、可变迭代器
-  --区间（Range）与数列（Progression）
-  --序列（Sequence）
-  --集合操作
-    --转换：映射（map）、合拢（zip）、关联（associateWith）、打平（flatten、flatMap）、字符串转换（joinToString，joinTo）
-    --过滤：filter()、 partition()、any（）、none()、all（）
-    --plus+：
-    --minus-：
-    --分组：groupBy()、groupingBy()
-    --取集合一部分：slice()、take()、takeLast()、 drop() 、dropLast()、takeWhile()、takeLastWhile()、dropWhile()、dropLastWhile()、chunked()、windowed()、zipWithNext()
-    --取单个元素：elementAt()、get()、 []访问、first()、last()、elementAtOrNull()、elementAtOrElse()、 firstOrNull()、lastOrNull()、find()、findLast()、random()、contains()、containsAll()、isEmpty()、isNotEmpty()
-    --集合排序：数值排序、字典排序、Comparable 、Comparator、compareBy() 、sorted() 、sortedDescending()、sortedBy()、sortedByDescending()、sortedWith()、reversed()、asReversed()、shuffled()
-    --聚合操作：min() 、max() 、average()、sum() 、count() 、maxBy()/minBy()、maxWith()/minWith() 、sumBy()、sumByDouble() 、reduce()、fold()、reduceRight() 、foldRight() 、reduceIndexed()、foldIndexed()、reduceRightIndexed()、foldRightIndexed()、reduceOrNull()、reduceRightOrNull()、reduceIndexedOrNull()、reduceRightIndexedOrNull()
-    --集合写操作：add()、addAll()、 plus（+） 、plusAssign（+=）、remove()、removeAll()、retainAll()、clear() 、minusAssign (-=) 、 minus（—）
-    --List操作： elementAt() 、 first() 、 last() 、 get() 、 [index]访问、getOrElse()、getOrNull() 、 subList() 、 indexOf() 、lastIndexOf()、indexOfFirst()、indexOfLast()、binarySearch()、add()、addAll()、set()、[]更新、 removeAt()、removeFirst()、removeLast()、removeFirstOrNull()、removeLastOrNull()、sort()、sortDescending()、sortBy()、shuffle() 、reverse()、asReversed()
-    --Set操作：union() 、intersect() 、subtract()
-    --Map操作：get() 、 [key] 语法、 getValue()、getOrElse()、getOrDefault()
+  --集合框架：Collection、List、Map、MutableCollection、Map、空集合  
+  --集合初始化方式、集合复制  
+  --集合过滤filter、映射map、关联associate  
+  --迭代器：List迭代器、可变迭代器  
+  --区间（Range）与数列（Progression）  
+  --序列（Sequence）  
+  --集合操作  
+    --转换：映射（map）、合拢（zip）、关联（associateWith）、打平（flatten、flatMap）、字符串转换（joinToString，joinTo）  
+    --过滤：filter()、 partition()、any（）、none()、all（）  
+    --plus+：  
+    --minus-：  
+    --分组：groupBy()、groupingBy()  
+    --取集合一部分：slice()、take()、takeLast()、 drop() 、dropLast()、takeWhile()、takeLastWhile()、dropWhile()、dropLastWhile()、chunked()、windowed()、zipWithNext()  
+    --取单个元素：elementAt()、get()、 []访问、first()、last()、elementAtOrNull()、elementAtOrElse()、 firstOrNull()、lastOrNull()、find()、findLast()、random()、contains()、containsAll()、isEmpty()、isNotEmpty()  
+    --集合排序：数值排序、字典排序、Comparable 、Comparator、compareBy() 、sorted() 、sortedDescending()、sortedBy()、sortedByDescending()、sortedWith()、reversed()、asReversed()、shuffled()  
+    --聚合操作：min() 、max() 、average()、sum() 、count() 、maxBy()/minBy()、maxWith()/minWith() 、sumBy()、sumByDouble() 、reduce()、fold()、reduceRight() 、foldRight() 、reduceIndexed()、foldIndexed()、reduceRightIndexed()、foldRightIndexed()、reduceOrNull()、reduceRightOrNull()、reduceIndexedOrNull()、reduceRightIndexedOrNull()  
+    --集合写操作：add()、addAll()、 plus（+） 、plusAssign（+=）、remove()、removeAll()、retainAll()、clear() 、minusAssign (-=) 、 minus（—）  
+    --List操作： elementAt() 、 first() 、 last() 、 get() 、 [index]访问、getOrElse()、getOrNull() 、 subList() 、 indexOf() 、lastIndexOf()、indexOfFirst()、indexOfLast()、binarySearch()、add()、addAll()、set()、[]更新、 removeAt()、removeFirst()、removeLast()、removeFirstOrNull()、removeLastOrNull()、sort()、sortDescending()、sortBy()、shuffle() 、reverse()、asReversed()  
+    --Set操作：union() 、intersect() 、subtract()  
+    --Map操作：get() 、 [key] 语法、 getValue()、getOrElse()、getOrDefault()  
 
 
 
