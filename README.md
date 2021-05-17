@@ -51,7 +51,7 @@ kotlin, android, gradle, plugin, java
     --集合写操作：add()、addAll()、 plus（+） 、plusAssign（+=）、remove()、removeAll()、retainAll()、clear() 、minusAssign (-=) 、 minus（—）  
     --List操作： elementAt() 、 first() 、 last() 、 get() 、 [index]访问、getOrElse()、getOrNull() 、 subList() 、 indexOf() 、lastIndexOf()、indexOfFirst()、indexOfLast()、binarySearch()、add()、addAll()、set()、[]更新、 removeAt()、removeFirst()、removeLast()、removeFirstOrNull()、removeLastOrNull()、sort()、sortDescending()、sortBy()、shuffle() 、reverse()、asReversed()  
     --Set操作：union() 、intersect() 、subtract()  
-    --Map操作：get() 、 [key] 语法、 getValue()、getOrElse()、getOrDefault()  
+    --Map操作：get() 、 [key] 语法、 getValue()、getOrElse()、getOrDefault() 、keys、values、 filter()、filterKeys()、filterValues()、plus（+）、minus（-）、put()、putAll()、plusAssign （+=）、[] 操作符、 remove() 、 .keys.remove()、 .values.remove()、minusAssign （-=）   
 
 
 
